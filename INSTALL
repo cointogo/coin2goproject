@@ -1,0 +1,9 @@
+Building Coin2Go
+
+See doc/readme-qt.rst for instructions on building Coin2Go QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Coin2Go.
+
+See doc/build-*.txt for instructions on building coin2god,
+the intended-for-services, no-graphical-interface, reference
+implementation of Coin2Go.
