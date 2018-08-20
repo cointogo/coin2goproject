@@ -1,14 +1,5 @@
 Coin2Go is a PoS-based cryptocurrency.
 It stands for green mining, smart applications, augmented reality and innovative app technologies.
-
-
-  ..|'''.|          ||             .                           
-.|'     '    ...   ...  .. ...   .||.    ...     ... .   ...   
-||         .|  '|.  ||   ||  ||   ||   .|  '|.  || ||  .|  '|. 
-'|.      . ||   ||  ||   ||  ||   ||   ||   ||   |''   ||   || 
- ''|....'   '|..|' .||. .||. ||.  '|.'  '|..|'  '||||.  '|..|' 
-                                               .|....'         
-                                                               
                                                                
 About Cointogo
 ===========================
