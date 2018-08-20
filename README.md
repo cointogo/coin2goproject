@@ -1,6 +1,15 @@
 Coin2Go is a PoS-based cryptocurrency.
 It stands for green mining, smart applications, augmented reality and innovative app technologies.
 
+
+  ..|'''.|          ||             .                           
+.|'     '    ...   ...  .. ...   .||.    ...     ... .   ...   
+||         .|  '|.  ||   ||  ||   ||   .|  '|.  || ||  .|  '|. 
+'|.      . ||   ||  ||   ||  ||   ||   ||   ||   |''   ||   || 
+ ''|....'   '|..|' .||. .||. ||.  '|.'  '|..|'  '||||.  '|..|' 
+                                               .|....'         
+                                                               
+                                                               
 About Cointogo
 ===========================
 
@@ -31,3 +40,22 @@ Innovative app solutions in connection with merchants, gaming, instant payment, 
 Mobile App
 ===========================
 The demand for apps and smart applications has grown rapidly in recent years. With our app, the combination of blockchain and augmented reality will provide groundbreaking opportunities. New instant pay solutions, especially in the gaming area, are being planned. The combination of these options, as well as ensuring privacy and security standards are the next steps in the 2go project. The interactions between man and machine will become smarter in the future. Thanks to machine learning and artificial intelligence, digital products will be capable of solving problems, learning from mistakes and constantly improving themselves.
+
+
+Official Links
+===========================
+http://cointogo.io
+https://webwallet.cointogo.io/
+http://explorer.cointogo.io/
+
+
+Social Media
+===========================
+https://www.facebook.com/CoinToGo/
+https://twitter.com/coin2go1
+https://www.instagram.com/cointogo_official
+https://t.me/cointogo/
+
+
+
+
