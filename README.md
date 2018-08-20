@@ -35,17 +35,17 @@ The demand for apps and smart applications has grown rapidly in recent years. Wi
 
 Official Links
 ===========================
-http://cointogo.io
-https://webwallet.cointogo.io/
-http://explorer.cointogo.io/
+http://cointogo.io<br />
+https://webwallet.cointogo.io/<br />
+http://explorer.cointogo.io/<br />
 
 
 Social Media
 ===========================
-https://www.facebook.com/CoinToGo/
-https://twitter.com/coin2go1
-https://www.instagram.com/cointogo_official
-https://t.me/cointogo/
+https://www.facebook.com/CoinToGo/<br />
+https://twitter.com/coin2go1<br />
+https://www.instagram.com/cointogo_official<br />
+https://t.me/cointogo/<br />
 
 
 
