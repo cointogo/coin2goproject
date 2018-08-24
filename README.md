@@ -43,7 +43,7 @@ http://explorer.cointogo.io/<br />
 Social Media
 ===========================
 https://www.facebook.com/CoinToGo/<br />
-https://twitter.com/coin2go1<br />
+https://twitter.com/cointogo<br />
 https://www.instagram.com/cointogo_official<br />
 https://t.me/cointogo/<br />
 
