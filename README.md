@@ -37,7 +37,7 @@ Official Links
 ===========================
 http://cointogo.io<br />
 https://webwallet.cointogo.io/<br />
-http://explorer.cointogo.io/<br />
+https://explorer.cointogo.io/<br />
 
 
 Social Media
