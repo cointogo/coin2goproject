@@ -46,6 +46,8 @@ https://www.facebook.com/CoinToGo/<br />
 https://twitter.com/cointogo<br />
 https://www.instagram.com/cointogo_official<br />
 https://t.me/cointogo/<br />
+https://bitcointalk.org/index.php?topic=5055285.msg47161465#msg47161465<br />
+https://discordapp.com/invite/NJjb4rD<br />
 
 
 
