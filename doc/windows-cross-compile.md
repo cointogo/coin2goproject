@@ -35,7 +35,7 @@ Add `MXE_TARGETS` so that we get 32-bit Windows binaries.
 $ make MXE_TARGETS='i686-w64-mingw32.static' cc
 $ make MXE_TARGETS='i686-w64-mingw32.static' qt
 $ make MXE_TARGETS='i686-w64-mingw32.static' qttools
-$  make MXE_TARGETS="i686-w64-mingw32.static" boost
+$ make MXE_TARGETS='i686-w64-mingw32.static' boost
 
 
 Build OpenSSL for windows (version 1.1.x doesn't work)
