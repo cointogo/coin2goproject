@@ -36,7 +36,6 @@ The demand for apps and smart applications has grown rapidly in recent years. Wi
 Official Links
 ===========================
 http://cointogo.io<br />
-https://webwallet.cointogo.io/<br />
 https://explorer.cointogo.io/<br />
 
 
